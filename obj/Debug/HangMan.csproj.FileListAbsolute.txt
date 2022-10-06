@@ -1,0 +1,11 @@
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\bin\Debug\HangMan.exe
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\bin\Debug\HangMan.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.Form1.resources
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.csproj.GenerateResource.cache
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.exe
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Ampel System\HangMan\obj\Debug\HangMan.csproj.SuggestedBindingRedirects.cache
